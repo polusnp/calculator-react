@@ -9,7 +9,7 @@
   height: 445px;
   max-width: 460px;
   border-radius: 4px;
-  background-color: cadetblue;
+  background-color: dimgrey;
 }
 
 .output {
@@ -34,7 +34,7 @@
   color: #ffffff;
   grid-row: 4 / 6;
   grid-column: 4 / 4;
-  background-color: green;
+  background-color: darkgreen;
 }
 
 .keys button:nth-child(16) {
